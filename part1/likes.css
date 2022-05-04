@@ -1,0 +1,30 @@
+.container {
+  width: 300px;
+  height: 120px;
+  border: black;
+  border-style: solid;
+  margin-left: 50px;
+  margin-top: 35px;
+}
+.head {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.likebutton {
+  background-color: yellow;
+  border: solid black;
+  box-shadow: 3px 3px black;
+  width: 50px;
+  height: 25px;
+  margin-right: 5px;
+}
+.first {
+  margin-left: 15px;
+  margin-bottom: 0px;
+  margin-top: 5px;
+}
+.second {
+  margin-left: 15px;
+  margin-top: 0px;
+}
